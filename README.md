@@ -1,10 +1,15 @@
 # dev
 ### 1. web design trends
-
+dark mode
+dynamic
+retro
 ### 2. target audience
-
+gamers
+young
+people who need information
+curious people
 ### 3.user journey
-
+information about roblox
 ### 4. wireframe
 turned in on paper
 
